@@ -91,5 +91,4 @@ A standalone web application built with **HTML5, Vanilla CSS (dark glassmorphic 
 
 ## 🎓 Academic Context
 This project was carried out as part of the **Modélisation Multidimensionnelle** course. The final academic report detailing the functional requirements, ETL strategies, and BI results is available in the root directory:
-* French Report (PDF): [Rapport final MMD.pdf](Rapport%20final%20MMD.pdf)
-* French Report (Word): [Rapport final MMD.docx](Rapport%20final%20MMD.docx)
+* Report (PDF): [Rapport final MMD.pdf](Rapport%20final%20MMD.pdf)
